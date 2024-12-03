@@ -1,0 +1,11 @@
+numpy
+pandas
+tensorflow-cpu
+scikit-learn
+yfinance
+fastapi
+uvicorn
+aiohttp
+python-multipart
+scipy
+jinja2
